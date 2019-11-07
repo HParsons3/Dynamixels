@@ -1,0 +1,2 @@
+orbo_manager
+-DCATKIN_DEVEL_PREFIX=/home/user001/orbo_wss/orbo_ws/devel -DCMAKE_INSTALL_PREFIX=/home/user001/orbo_wss/orbo_ws/install -G Unix Makefiles

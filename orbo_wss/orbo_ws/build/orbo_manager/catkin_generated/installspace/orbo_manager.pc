@@ -1,0 +1,8 @@
+prefix=/home/user001/orbo_wss/orbo_ws/install
+
+Name: orbo_manager
+Description: Description of orbo_manager
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/user001/orbo_wss/orbo_ws/install/lib 
+Requires: 
